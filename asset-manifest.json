@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MinProject_VoiceForm/static/css/main.aa649b43.css",
-    "main.js": "/MinProject_VoiceForm/static/js/main.32d53376.js",
-    "static/js/787.cda612ba.chunk.js": "/MinProject_VoiceForm/static/js/787.cda612ba.chunk.js",
-    "index.html": "/MinProject_VoiceForm/index.html",
-    "main.aa649b43.css.map": "/MinProject_VoiceForm/static/css/main.aa649b43.css.map",
-    "main.32d53376.js.map": "/MinProject_VoiceForm/static/js/main.32d53376.js.map",
-    "787.cda612ba.chunk.js.map": "/MinProject_VoiceForm/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/MinProject_VoiceForm%E3%80%81/static/css/main.aa649b43.css",
+    "main.js": "/MinProject_VoiceForm%E3%80%81/static/js/main.cf0c0769.js",
+    "static/js/787.cda612ba.chunk.js": "/MinProject_VoiceForm%E3%80%81/static/js/787.cda612ba.chunk.js",
+    "index.html": "/MinProject_VoiceForm%E3%80%81/index.html",
+    "main.aa649b43.css.map": "/MinProject_VoiceForm%E3%80%81/static/css/main.aa649b43.css.map",
+    "main.cf0c0769.js.map": "/MinProject_VoiceForm%E3%80%81/static/js/main.cf0c0769.js.map",
+    "787.cda612ba.chunk.js.map": "/MinProject_VoiceForm%E3%80%81/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa649b43.css",
-    "static/js/main.32d53376.js"
+    "static/js/main.cf0c0769.js"
   ]
 }
